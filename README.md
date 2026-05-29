@@ -1,4 +1,4 @@
-# company-research：上市公司深度覆盖分析
+## company-research：上市公司覆盖报告攥写
 
 > 某券商行业研究实习生被愚钝的 AI 折磨崩溃后，一怒之下写了这个 skill。
 
