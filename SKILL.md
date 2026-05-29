@@ -1,5 +1,5 @@
 ---
-name: equity-research
+name: company-research
 description: |
   对上市公司进行深度覆盖分析，输出商业模式全解、竞争格局、护城河评估、财务趋势、
   盈利预测和风险提示的完整研报。此技能应在以下情况使用：

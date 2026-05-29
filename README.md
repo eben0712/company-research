@@ -1,13 +1,13 @@
-# equity-research：上市公司深度覆盖分析
+# company-research：上市公司深度覆盖分析
 
 输入公司名或股票代码，自动搜索、分析、输出一份完整研报——商业模式、护城河、竞争格局、财务趋势、盈利预测、风险提示全部覆盖，最后导出 Markdown 和 Word 两份文件。
 
 ## 安装
 
-将 `equity-research/` 目录放到你的 Claude Code skills 目录下：
+将 `company-research/` 目录放到你的 Claude Code skills 目录下：
 
 ```
-~/.claude/skills/equity-research/
+~/.claude/skills/company-research/
 ```
 
 重启 Claude Code 即可。触发方式：提到"分析XX公司""深度研究XX""XX的商业模式是什么"等关键词即自动加载。
